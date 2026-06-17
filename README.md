@@ -89,7 +89,7 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, scalable, an
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VishwanadhulaGowrish" target="_blank">
+  <a href="https://www.linkedin.com/in/vishwanadhula-gowrish-232084278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -97,7 +97,7 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, scalable, an
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="vishwanadhulagowrish27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
